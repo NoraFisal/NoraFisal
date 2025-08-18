@@ -4,15 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Nora%20Fisal&fontAlign=50&fontAlignY=35&color=0:6C63FF,100:AA9CFF&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Web%20%26%20Data%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn" alt="Nora Fisal banner"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=140&text=Nora%20Fisal&fontAlign=50&color=gradient&fontColor=ffffff&animation=fadeIn&desc=IT%20%40%20KSU%20%E2%80%94%20AI%20%26%20Data%20Science" alt="Nora Fisal soft banner"/>
-</p>
-
-<h1 align="center">Hi, I'm Nora <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" /></h1>
-<p align="center">
-  IT Student @ KSU • AI & Data Science • Web & Data Enthusiast
-</p>
-
 
 
 ## 👩‍💻 About Me
