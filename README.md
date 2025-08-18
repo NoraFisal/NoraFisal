@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Nora 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Nora+👋;Information+Technology+Student+at+KSU;Specialized+in+AI+and+Data+Science;Passionate+about+Data+Analysis+and+Web+Development;Creative+in+Design+%26+Video+Editing)](https://git.io/typing-svg)
+
 
 ## 👩‍💻 About Me
 - 🎓 I'm an **Information Technology student at King Saud University**, specializing in **Artificial Intelligence & Data Science**  
