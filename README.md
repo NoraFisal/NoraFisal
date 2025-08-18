@@ -39,7 +39,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:norafisal3623@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/nora-albyahi)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoraFisal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF8000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nora-albyahi)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF8000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:norafisal3623@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-FF8000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoraFisal)
 
