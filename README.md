@@ -1,9 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Nora+👋;Information+Technology+Student+at+KSU;Specialized+in+AI+and+Data+Science;Passionate+about+Data+Analysis+and+Web+Development;Creative+in+Design+%26+Video+Editing)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Nora%20Fisal&fontAlign=50&fontAlignY=35&color=0:6C63FF,100:AA9CFF&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Web%20%26%20Data%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn" alt="Nora Fisal banner"/>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF8000&center=true&vCenter=true&width=800&lines=Hi+I'm+Nora+👋;IT+Student+at+KSU;AI+%26+Data+Science+Track)](https://git.io/typing-svg)
 
 
 ## 👩‍💻 About Me
