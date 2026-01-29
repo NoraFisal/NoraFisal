@@ -65,17 +65,17 @@
 ---
 
 ## 📊 GitHub Stats
-![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoraFisal&show_icons=true&theme=tokyonight&count_private=true)
+![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoraFisal&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 
 ---
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoraFisal&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoraFisal&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=NoraFisal&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=NoraFisal&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
